@@ -1,4 +1,3 @@
 # cot-4500-Pro1
 
-The purpose of this code is to completed Programming Assignment 1 that invlove differenct concepts in the class including 1. Approximation Algorithm (Slide 11, Chapter 2.1).
-2. The bisection Method (Slide 14, Chapter 2.1). 3. The fixed-point Iteration (Slide 13, Chapter 2.2) 4. The Newton-Raphson method (Slide 7, Chapter 2.3)
+The purpose of this code is to completed Programming Assignment 1 that invlove differenct concepts in the class including 1. Approximation Algorithm (Slide 11, Chapter 2.1). 2. The bisection Method (Slide 14, Chapter 2.1). 3. The fixed-point Iteration (Slide 13, Chapter 2.2) 4. The Newton-Raphson method (Slide 7, Chapter 2.3). All you have to do is run the code and you will get the code with specific answers that match with the chapter slides. I didnt use any third party libraries in python unless you count import math. I used python for my code just like the assignment said to.
